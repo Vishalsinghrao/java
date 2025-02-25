@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/String_Lowercase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Detect_spaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Letter_Template.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Application.GreetingMessage.executor": "Run",
     "Application.Is_integerornot.executor": "Run",
     "Application.Km_Miles.executor": "Run",
+    "Application.Letter_Template.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.String_Lowercase.executor": "Run",
@@ -100,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740253320612</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1740337986772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740337986773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
