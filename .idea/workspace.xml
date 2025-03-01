@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="first commit" />
+    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/Day_of_week.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leapyear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Website_type.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patter_loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +54,7 @@
     "Application.CbseResult.executor": "Run",
     "Application.CgpaCalculate.executor": "Run",
     "Application.Comparison_operator.executor": "Run",
+    "Application.Day_of_week.executor": "Run",
     "Application.Detect_spaces.executor": "Run",
     "Application.Encrypt_grade.executor": "Run",
     "Application.Format_specifier.executor": "Run",
@@ -55,6 +62,7 @@
     "Application.If_else.executor": "Run",
     "Application.Is_integerornot.executor": "Run",
     "Application.Km_Miles.executor": "Run",
+    "Application.Leapyear.executor": "Run",
     "Application.Letter_Template.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Operators.executor": "Run",
@@ -62,7 +70,9 @@
     "Application.String_replace.executor": "Run",
     "Application.Taxpayer.executor": "Run",
     "Application.ThreeSum.executor": "Run",
+    "Application.Website_type.executor": "Run",
     "Application.check_pass.executor": "Run",
+    "Application.patter_loop.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -126,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740689228677</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1740689762966</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740689762966</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
