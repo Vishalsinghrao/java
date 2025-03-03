@@ -38,7 +38,5 @@ public class Rock_paper_scissors {
         } else {
             System.out.println("Invalid input! Please enter Rock, Paper, or Scissors.");
         }
-
-        sc.close(); // Close scanner to prevent memory leaks
     }
 }
