@@ -5,8 +5,8 @@ public class patter_loop {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         for(int i = a;i>0;i--){
-            for(int j =i;j<i;j--){
-                System.out.println("*");
+            for(int j =i;j>0;j--){
+                System.out.print("*");
             }
             System.out.println("\n");
         }
