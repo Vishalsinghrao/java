@@ -1,3 +1,5 @@
+// WAP to add two matrixes of size 2*3
+
 import java.util.Scanner;
 
 public class arrays_4 {

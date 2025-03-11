@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/arrays_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrays_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +84,10 @@
     "Application.arrays_2.executor": "Run",
     "Application.arrays_3.executor": "Run",
     "Application.arrays_4.executor": "Run",
+    "Application.arrays_5.executor": "Run",
+    "Application.arrays_6.executor": "Run",
+    "Application.arrays_7.executor": "Run",
+    "Application.arrays_8.executor": "Run",
     "Application.check_pass.executor": "Run",
     "Application.patter_loop.executor": "Run",
     "Application.sum_of_occurence.executor": "Run",
@@ -202,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741116040570</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1741674438594</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741674438595</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

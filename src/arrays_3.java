@@ -1,3 +1,5 @@
+
+// WAP to find the average of a student marks
 public class arrays_3 {
     public static void main(String[] args) {
 

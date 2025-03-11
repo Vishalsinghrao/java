@@ -1,3 +1,5 @@
+
+// WAP to add 5 float arrays
 public class arrays_1 {
     public static void main(String[] args) {
 

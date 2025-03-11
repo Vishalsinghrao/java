@@ -1,3 +1,6 @@
+
+// WAP to check wheather an element is present in the array or not
+
 import java.util.Scanner;
 
 public class arrays_2 {
