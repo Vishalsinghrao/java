@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/arrays_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrays_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/arrays_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,13 +83,15 @@
     "Application.arrays_7.executor": "Run",
     "Application.arrays_8.executor": "Run",
     "Application.check_pass.executor": "Run",
+    "Application.methods_1.executor": "Run",
     "Application.patter_loop.executor": "Run",
     "Application.sum_of_occurence.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Vishal/IdeaProjects/java/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/Vishal/IdeaProjects/java/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -218,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741674438595</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1741697080858</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741697080859</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
