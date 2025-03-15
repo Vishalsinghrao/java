@@ -7,7 +7,7 @@ public class methods_1 {
         return arr;
     }
     public static void main(String[] args) {
-        int[] result = table(5);
+        int[] result = table(4);
         for (int element : result){
             System.out.println(element);
         }
