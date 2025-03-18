@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/methods_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_2.java" afterDir="false" />
-    </list>
+    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="Oops basics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +31,9 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/OOPS_4.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -64,6 +63,10 @@
     "Application.Leapyear.executor": "Run",
     "Application.Letter_Template.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.OOPS_1.executor": "Run",
+    "Application.OOPS_2.executor": "Run",
+    "Application.OOPS_3.executor": "Run",
+    "Application.OOPS_4.executor": "Run",
     "Application.Operators.executor": "Run",
     "Application.Reverse_table.executor": "Run",
     "Application.Rock_paper_scissors.executor": "Run",
@@ -222,7 +225,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741697080859</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1742074016196</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1742074016196</updated>
+    </task>
+    <task id="LOCAL-00016" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1742321512556</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1742321512557</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -237,6 +256,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Oops basic" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
