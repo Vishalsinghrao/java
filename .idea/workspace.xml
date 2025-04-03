@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="OOPS">
-      <change afterPath="$PROJECT_DIR$/src/CreateLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_1.java" afterDir="false" />
+    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="inheritance">
+      <change afterPath="$PROJECT_DIR$/src/abstract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,6 +88,9 @@
     "Application.Taxpayer.executor": "Run",
     "Application.ThreeSum.executor": "Run",
     "Application.Website_type.executor": "Run",
+    "Application.abstract1.executor": "Run",
+    "Application.abstract2.executor": "Run",
+    "Application.abstract4.executor": "Run",
     "Application.arrays_1.executor": "Run",
     "Application.arrays_2.executor": "Run",
     "Application.arrays_3.executor": "Run",
@@ -283,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742751905770</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="inheritance">
+      <option name="closed" value="true" />
+      <created>1743012055543</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1743012055543</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +315,7 @@
     <MESSAGE value="Oops basics" />
     <MESSAGE value="first commit" />
     <MESSAGE value="OOPS" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPS" />
+    <MESSAGE value="inheritance" />
+    <option name="LAST_COMMIT_MESSAGE" value="inheritance" />
   </component>
 </project>
