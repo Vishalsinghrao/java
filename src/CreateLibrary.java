@@ -1,36 +1,43 @@
 import java.util.Scanner;
 
 class Library{
-    Scanner sc = new Scanner(System.in);
-    String[] availableBooks = new String[10];
+    String[] availableBooks = new String[100];
     int currentarrsize = 3;
     public Library(){
-        availableBooks[0] = "The Art of war";
-        availableBooks[1] = "The 48 law";
-        availableBooks[2] = "love: power or curse?";
+        this.availableBooks[0] = "The Art of war";
+        this.availableBooks[1] = "The 48 law";
+        this.availableBooks[2] = "love: power or curse?";
     }
 
-    public void addBook(){
-        System.out.print("Enter the book you want to add: ");
-        String book = sc.nextLine();
-        availableBooks[currentarrsize] = book;
-        currentarrsize++;
-        showavailableBook();
+    public void addBook(String book){
+        this.availableBooks[currentarrsize] = book;
+        this.currentarrsize++;
+        System.out.println(book + " was added to the library");
     }
-    public void issueBook(){
-        showavailableBook();
-        System.out.print("Enter the book you want to issue: ");
-        String issued = sc.nextLine();
-        System.out.println(issued + " Book was issued");
+    public void issueBook(String book){
+//        showavailableBook();
+        for(int i=0;i< this.availableBooks.length;i++){
+            if(this.availableBooks[i].equals(book)){
+                this.availableBooks[i] = null;
+                System.out.println(book + " was issued");
+                return;
+            }
+        }
+        System.out.println(book + " is not availaible");
+
     }
-    public void returnBook(){
-        System.out.print("Enter the book you want to return: ");
-        String returnbook = sc.nextLine();
-        System.out.println(returnbook + " Book was returned");
+    public void returnBook(String book){
+        System.out.println(book + " Book was returned");
+        this.availableBooks[currentarrsize] = book;
+        this.currentarrsize++;
     }
     public void showavailableBook(){
-        for(int i=0;i<currentarrsize;i++){
-            System.out.println(availableBooks[i]);
+
+        for(int i=0;i<this.availableBooks.length;i++){
+            if(this.availableBooks[i] == null){
+                continue;
+            }
+            System.out.println(this.availableBooks[i]);
         }
     }
 
@@ -39,9 +46,10 @@ class Library{
 public class CreateLibrary {
     public static void main(String[] args) {
         Library harry = new Library();
-        harry.addBook();
-        harry.issueBook();
-//        harry.returnBook();
-//        harry.showavailableBook();
+        harry.addBook("left alone");
+        harry.issueBook("left alone");
+        harry.showavailableBook();
+        harry.returnBook("left alone");
+        harry.showavailableBook();
     }
 }
