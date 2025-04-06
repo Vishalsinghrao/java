@@ -15,7 +15,6 @@ class Library{
         System.out.println(book + " was added to the library");
     }
     public void issueBook(String book){
-//        showavailableBook();
         for(int i=0;i< this.availableBooks.length;i++){
             if(this.availableBooks[i].equals(book)){
                 this.availableBooks[i] = null;
