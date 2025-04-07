@@ -29,6 +29,7 @@ class Library{
         System.out.println(book + " Book was returned");
         this.availableBooks[currentarrsize] = book;
         this.currentarrsize++;
+
     }
     public void showavailableBook(){
 
