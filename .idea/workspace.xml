@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="abstract methods">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cad12d88-6b11-4221-8a36-b5e56a1a6ebc" name="Changes" comment="abstract methods" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -332,7 +330,31 @@
       <option name="project" value="LOCAL" />
       <updated>1744222474164</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="abstract methods">
+      <option name="closed" value="true" />
+      <created>1744568577317</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1744568577317</updated>
+    </task>
+    <task id="LOCAL-00028" summary="abstract methods">
+      <option name="closed" value="true" />
+      <created>1744568611440</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1744568611440</updated>
+    </task>
+    <task id="LOCAL-00029" summary="abstract methods">
+      <option name="closed" value="true" />
+      <created>1744568632280</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1744568632280</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
