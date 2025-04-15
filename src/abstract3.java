@@ -6,7 +6,6 @@ abstract class Telephone{
 }
 interface camera{
     public void click();
-
 }
 
 class Smartphone extends Telephone implements camera{
