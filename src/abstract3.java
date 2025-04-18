@@ -27,6 +27,7 @@ class Smartphone extends Telephone implements camera{
         System.out.println("clicked");
     }
 }
+
 public class abstract3 {
     public static void main(String[] args) {
         camera s = new Smartphone();
