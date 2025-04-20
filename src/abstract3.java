@@ -28,6 +28,7 @@ class Smartphone extends Telephone implements camera{
     }
 }
 
+
 public class abstract3 {
     public static void main(String[] args) {
         camera s = new Smartphone();
