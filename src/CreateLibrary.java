@@ -38,9 +38,7 @@ class Library{
             System.out.println(this.availableBooks[i]);
         }
     }
-
 }
-
 public class CreateLibrary {
     public static void main(String[] args) {
         Library harry = new Library();
