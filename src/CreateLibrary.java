@@ -30,7 +30,6 @@ class Library{
         this.currentarrsize++;
     }
     public void showavailableBook(){
-
         for(int i=0;i<this.availableBooks.length;i++){
             if(this.availableBooks[i] == null){
                 continue;
