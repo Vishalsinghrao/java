@@ -5,7 +5,6 @@ import java.util.Scanner;
 
 public class  arrays_2 {
     public static void main(String[] args) {
-
         /*
         without taking input from the user
         int [] nums = {4,5,6,7,8,9};
